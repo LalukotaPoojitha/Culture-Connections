@@ -1,10 +1,10 @@
 # Culture-Connections
  Welcome to our one-stop for effortless vacation planning!
 # Project Details
- Project Demo URL:
- Demo Video URL:
- GitHub Repository URL:
- Industry : Travel
+  Project Demo URL:
+  Demo Video URL:
+  GitHub Repository URL:
+  Industry : Travel
 # Roles and responsibilities
  Lalukota Poojitha (project management) :Manages the web development project.
  Nalika Vishal (Deployment) :Deployment and maintenance of project infrastructure.
@@ -43,7 +43,7 @@
  safeguards critical data in the Azure cloud. It offers automated and scalable backup solutions for virtual machines, applications, and files. With features 
  like long-term retention and geo-redundancy, it ensures data resilience and facilitates efficient disaster recovery, enhancing overall data protection 
  strategies.
-# Azure AI Service
+# Azure AI service:
  Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational agent powered by "Microsoft's Azure platform". Leveraging advanced natural l 
  language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to 
  comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures 
