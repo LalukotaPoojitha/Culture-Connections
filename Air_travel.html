@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <tittle>
+            <div style="text-align: center; font-size: larger;"><h1 >Air Travelling</h1></div>
+        </tittle>
+         <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        form {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        label, input, select {
+            display: block;
+            margin-bottom: 10px;
+        }
+        button {
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+          section {
+             box-sizing: border-box;
+             width: 100%;
+             float: left;
+             float: inline-start;
+             margin: 30px;
+            }
+
+            .left {
+                float: inline-start;
+            }
+            .right {
+                float: inline;
+                padding-left: 15px;
+                margin-left: 20px;
+            }
+            .text{
+                font-size: medium;
+            }
+            div{
+                margin: 15px;
+            }
+    
+  </style>
+     </style>
+    <body style="background-image: url(./images/bg_airtravel.jpg);background-size: cover;">
+        </form>
+        <section>
+        <div class="left"><img src="./images/airland.jpg"></div>
+        <div class="right" >
+             <h1>15% OFF LIMITED-TIME SUMMER OFFER</h1>
+        <P class="text" style="font-size: x-large;" >LOW cost transfers to airport.Safe&Secure transfers.Book now! 
+            Private Transportation from/to Airport.No card fees.Book easily on;line now!Privatesmart travel.com has been visited by 10k+ users in the past months.our Price including Meet and Greet and Waiting Time,We provide free child seat.Low cost Taxis to airports.Book instantly for lowest prices!</P>
+        </div>
+        <form action="/submit_booking" method="post">
+            <label for="from">Departure City:</label>
+            <input type="text" id="from" name="from" required>
+            <label for="to">Destination City:</label>
+            <input type="text" id="to" name="to" required>
+            <label for="date">Departure Date:</label>
+            <input type="date" id="date" name="date" required>
+            <label for="passengers">Number of Passengers:</label>
+            <input type="number" id="passengers" name="passengers" min="1" required>
+            <input type="submit" class="btn btn-info" style="border-radius: 20px;"onclick="myFunction();"/>
+            
+        </form>
+    </section>
+    </head>
+    </body>
+    <script>
+        function myFunction() {
+          alert('submited succesfully');
+        }
+        form.reset();
+        </script>
+</html>
