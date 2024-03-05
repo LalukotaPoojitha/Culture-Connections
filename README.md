@@ -1,11 +1,11 @@
 # Culture-Connections
  Welcome to our one-stop for effortless vacation planning!
-# Project Details
+# Project Details:
   Project Demo URL:
   Demo Video URL:
   GitHub Repository URL:
   Industry : Travel
-# Roles and responsibilities
+# Roles and Responsibilities:
  Lalukota Poojitha (project management) :Manages the web development project.
  Nalika Vishal (Deployment) :Deployment and maintenance of project infrastructure.
  Mukkawar Kaushik (Documentation) :Responsible for managing the documentation process.
@@ -15,7 +15,7 @@
  Storage account
  Azure Backup service
  Azure AI services
-# chatbot
+# Chatbot
  Azure Role Based access Control(RBAC).
 # Problem Statement:
  In recent days after the pandemic, most of the population is showing interest on travelling. Whether it maybe any mode of transport, they are trying to 
@@ -23,7 +23,7 @@
  application.The best thing about this project is we can plan our diet once we reach the destination.
 
 # Project Description:
- Welcome to our one-stop shop for effortless vacation planning! Our website transforms the way you book "flights, trains, buses, and ships", providing 
+Welcome to our one-stop shop for effortless vacation planning! Our website transforms the way you book "flights, trains, buses, and ships", providing 
  exceptional ease and flexibility to travellers worldwide. Consider a site where you can easily evaluate and book transit choices from any location to any 
  destination, all in one spot. Choosing from a variety of travel options has never been easier thanks to our user-friendly layout. Whether you're flying to 
  exotic destinations, taking a picturesque train ride, or cruising the seas, our website makes it easy to arrange your trip, assuring a stress-free 
@@ -35,7 +35,8 @@
  the way you travel.Explore our static website today and start on a smooth journey where the world awaits discovery.
 
 # Core Azure Services:
- Azure Blob Storage:- Azure Blob Storage is Microsoft's scalable object storage solution in the Azure cloud. It enables secure and cost-effective storage of 
+ # Azure Blob Storage:- 
+ Azure Blob Storage is Microsoft's scalable object storage solution in the Azure cloud. It enables secure and cost-effective storage of 
  unstructured data, such as documents and images. Offering seamless integration with applications, it supports data of any size and optimizes accessibility 
  through a globally distributed network. Azure Storage Account:- Azure Storage Account is a foundational component in Microsoft Azure, providing secure and 
  scalable cloud storage. It supports various storage services like Blob, File, Queue, and Table, accommodating diverse data types. With features such as 
