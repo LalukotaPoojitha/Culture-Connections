@@ -1,8 +1,8 @@
-# Culture-Connections
+![image](https://github.com/LalukotaPoojitha/Culture-Connections/assets/99134413/9792c9ef-2bfc-4d1a-aaa0-ca97f68f671d)# Culture-Connections
  Welcome to our one-stop for effortless vacation planning!
 # Project Details:
-  Project Demo URL:
-  Demo Video URL:
+  Project Demo URL: 
+  Demo Video URL: https://youtu.be/F4CIraSrF04
   GitHub Repository URL:
   Industry : Travel
 # Roles and Responsibilities:
