@@ -3,7 +3,7 @@
 # Project Details:
   Project Demo URL: https://mycultureconnection.z13.web.core.windows.net/
   Demo Video URL: https://youtu.be/F4CIraSrF04
-  GitHub Repository URL:
+  GitHub Repository URL: https://github.com/LalukotaPoojitha/Culture-Connections
   Industry : Travel
 # Roles and Responsibilities:
  Lalukota Poojitha (project management) :Manages the web development project.
