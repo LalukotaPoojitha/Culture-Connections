@@ -49,3 +49,20 @@ Welcome to our one-stop shop for effortless vacation planning! Our website trans
  language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to 
  comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures 
  scalability and reliability.
+# Screenshots
+# Storage Account
+![Screenshot 2024-03-12 144209](https://github.com/LalukotaPoojitha/Culture-Connections/assets/99134413/468c1d7e-047c-4cfd-bda4-76597d40f7fd)
+# Backup Vault
+![Screenshot 2024-03-12 144335](https://github.com/LalukotaPoojitha/Culture-Connections/assets/99134413/819e5403-194e-4ab6-8033-460c8cd8cb6b)
+# Azure Bot
+![Screenshot 2024-03-12 144557](https://github.com/LalukotaPoojitha/Culture-Connections/assets/99134413/ac9eded8-ff6b-4473-ba32-dcbe2b946c23)
+# Backup Policy
+![Screenshot 2024-03-12 145247](https://github.com/LalukotaPoojitha/Culture-Connections/assets/99134413/45a60a96-89a0-400b-815a-7e3e1ff3e3f7)
+# Azure Role Assignment
+![Screenshot 2024-03-12 145224](https://github.com/LalukotaPoojitha/Culture-Connections/assets/99134413/ee342cd1-281c-4bb4-a97f-87c6f5f4b718)
+# Website view
+![Screenshot 2024-03-12 144621](https://github.com/LalukotaPoojitha/Culture-Connections/assets/99134413/64b6ef5a-daf3-48f2-9f03-cf2a87cd7d15
+# Bot Response
+![Screenshot 2024-03-12 144651](https://github.com/LalukotaPoojitha/Culture-Connections/assets/99134413/50696778-ab71-4e83-bdb7-0034884cc038)
+
+
