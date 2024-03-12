@@ -1,10 +1,10 @@
 # Culture-Connections
  Welcome to our one-stop for effortless vacation planning!
 # Project Details:
-  Project Demo URL: 
-  Demo Video URL: https://youtu.be/F4CIraSrF04
-  GitHub Repository URL:
-  Industry : Travel
+  -Project Demo URL: 
+  -Demo Video URL: https://youtu.be/F4CIraSrF04
+  -GitHub Repository URL:
+  -Industry : Travel
 # Roles and Responsibilities:
  Lalukota Poojitha (project management) :Manages the web development project.
  Nalika Vishal (Deployment) :Deployment and maintenance of project infrastructure.
