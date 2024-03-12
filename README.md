@@ -1,15 +1,15 @@
 # Culture-Connections
  Welcome to our one-stop for effortless vacation planning!
 # Project Details:
-  Project Demo URL: https://mycultureconnection.z13.web.core.windows.net/
-  Demo Video URL: https://youtu.be/F4CIraSrF04
-  GitHub Repository URL: https://github.com/LalukotaPoojitha/Culture-Connections
-  Industry : Travel
+  1. Project Demo URL: https://mycultureconnection.z13.web.core.windows.net/
+  2. Demo Video URL: https://youtu.be/F4CIraSrF04
+  3. GitHub Repository URL: https://github.com/LalukotaPoojitha/Culture-Connections
+  4. Industry : Travel
 # Roles and Responsibilities:
- Lalukota Poojitha (project management) :Manages the web development project.
- Nalika Vishal (Deployment) :Deployment and maintenance of project infrastructure.
- Mukkawar Kaushik (Documentation) :Responsible for managing the documentation process.
- Kadari Manjula (designed the project)
+ 1. Lalukota Poojitha (project management) :Manages the web development project.
+ 2. Nalika Vishal (Deployment) :Deployment and maintenance of project infrastructure.
+ 3. Mukkawar Kaushik (Documentation) :Responsible for managing the documentation process.
+ 4. Kadari Manjula (designed the project)
 # Azure services used:
  Azure blob storage
  Storage account
