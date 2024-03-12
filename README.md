@@ -1,4 +1,4 @@
-![image](https://github.com/LalukotaPoojitha/Culture-Connections/assets/99134413/9792c9ef-2bfc-4d1a-aaa0-ca97f68f671d)# Culture-Connections
+# Culture-Connections
  Welcome to our one-stop for effortless vacation planning!
 # Project Details:
   Project Demo URL: 
