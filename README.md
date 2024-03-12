@@ -61,7 +61,8 @@ Welcome to our one-stop shop for effortless vacation planning! Our website trans
 # Azure Role Assignment
 ![Screenshot 2024-03-12 145224](https://github.com/LalukotaPoojitha/Culture-Connections/assets/99134413/ee342cd1-281c-4bb4-a97f-87c6f5f4b718)
 # Website view
-![Screenshot 2024-03-12 144621](https://github.com/LalukotaPoojitha/Culture-Connections/assets/99134413/64b6ef5a-daf3-48f2-9f03-cf2a87cd7d15
+![Screenshot 2024-03-12 144621](https://github.com/LalukotaPoojitha/Culture-Connections/assets/99134413/b410bbed-19e1-4c6b-a0a5-96acc901e614)
+
 # Bot Response
 ![Screenshot 2024-03-12 144651](https://github.com/LalukotaPoojitha/Culture-Connections/assets/99134413/50696778-ab71-4e83-bdb7-0034884cc038)
 
