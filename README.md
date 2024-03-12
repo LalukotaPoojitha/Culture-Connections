@@ -6,10 +6,10 @@
   3. GitHub Repository URL: https://github.com/LalukotaPoojitha/Culture-Connections
   4. Industry : Lifestyle - Travel
 # Roles and Responsibilities:
- 1. Lalukota Poojitha (project management) :Managed the web development project.
+ 1. Lalukota Poojitha (Project management) :Managed the web development project.
  2. Kaushik Mukkawar (Deployment) :Deployment and maintenance of project infrastructure.
  3. Nalika Vishal (Documentation) :Responsible for managing the documentation process.
- 4. Kadari Manjula (designed the project)
+ 4. Kadari Manjula (Images, logos and chat bot questions) :Responsible for image searching, logo creation and chat bot questions.
 # Azure services used:
  1. Azure blob storage
  2. Storage account
