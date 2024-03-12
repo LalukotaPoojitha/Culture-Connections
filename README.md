@@ -7,20 +7,21 @@
   4. Industry : Lifestyle - Travel
 # Roles and Responsibilities:
  1. Lalukota Poojitha (project management) :Managed the web development project.
- 2. Nalika Vishal (Deployment) :Deployment and maintenance of project infrastructure.
- 3. Mukkawar Kaushik (Documentation) :Responsible for managing the documentation process.
+ 2. Kaushik Mukkawar (Deployment) :Deployment and maintenance of project infrastructure.
+ 3. Nalika Vishal (Documentation) :Responsible for managing the documentation process.
  4. Kadari Manjula (designed the project)
 # Azure services used:
- Azure blob storage
- Storage account
- Azure Backup service
- Azure AI services
-# Chatbot
- Azure Role Based access Control(RBAC).
+ 1. Azure blob storage
+ 2. Storage account
+ 3. Azure Backup service
+ 4. Azure AI services
+ 5. Chatbot
+ 6. Azure Role Based access Control(RBAC).
+ 
 # Problem Statement:
- In recent days after the pandemic, most of the population is showing interest on travelling. Whether it maybe any mode of transport, they are trying to 
+ In recent days after the pandemic, most of the population is showing interest in travelling. Whether it maybe any mode of transport, they are trying to 
  book their travel mode in different applications for travel and hotels. So, we tried to create a one stop shop where we can plan our vacation in a single 
- application.The best thing about this project is we can plan our diet once we reach the destination.
+ application.
 
 # Project Description:
 Welcome to our one-stop shop for effortless vacation planning! Our website transforms the way you book "flights, trains, buses, and ships", providing 
@@ -49,6 +50,7 @@ Welcome to our one-stop shop for effortless vacation planning! Our website trans
  language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to 
  comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures 
  scalability and reliability.
+ 
 # Screenshots
 # Storage Account
 ![Screenshot 2024-03-12 144209](https://github.com/LalukotaPoojitha/Culture-Connections/assets/99134413/468c1d7e-047c-4cfd-bda4-76597d40f7fd)
