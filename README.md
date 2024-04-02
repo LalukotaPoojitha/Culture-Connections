@@ -54,12 +54,20 @@ Welcome to our one-stop shop for effortless vacation planning! Our website trans
 # Screenshots
 # Storage Account
 ![Screenshot 2024-03-12 144209](https://github.com/LalukotaPoojitha/Culture-Connections/assets/99134413/468c1d7e-047c-4cfd-bda4-76597d40f7fd)
+# Uploading Blob files 
+![blob files upload](https://github.com/LalukotaPoojitha/Culture-Connections/assets/99134413/2cbf6902-ce93-415b-88fb-9e233a9aee6e)
 # Backup Vault
 ![Screenshot 2024-03-12 144335](https://github.com/LalukotaPoojitha/Culture-Connections/assets/99134413/819e5403-194e-4ab6-8033-460c8cd8cb6b)
 # Azure Bot
 ![Screenshot 2024-03-12 144557](https://github.com/LalukotaPoojitha/Culture-Connections/assets/99134413/ac9eded8-ff6b-4473-ba32-dcbe2b946c23)
 # Backup Policy
 ![Screenshot 2024-03-12 145247](https://github.com/LalukotaPoojitha/Culture-Connections/assets/99134413/45a60a96-89a0-400b-815a-7e3e1ff3e3f7)
+# Azure Language Service
+![language service](https://github.com/LalukotaPoojitha/Culture-Connections/assets/99134413/83f7205f-314a-4444-88bf-e552f427ba96)
+# Uploading Bot files to Custom question answering
+![uploading bot questions](https://github.com/LalukotaPoojitha/Culture-Connections/assets/99134413/c72e0b3a-38cf-4cef-827f-7a5e97774c22)
+# Endpoints for static website
+![endpoints](https://github.com/LalukotaPoojitha/Culture-Connections/assets/99134413/ca7074c3-f829-4efb-9fdd-7217d78576d1)
 # Azure Role Assignment
 ![Screenshot 2024-03-12 145224](https://github.com/LalukotaPoojitha/Culture-Connections/assets/99134413/ee342cd1-281c-4bb4-a97f-87c6f5f4b718)
 # Website view
