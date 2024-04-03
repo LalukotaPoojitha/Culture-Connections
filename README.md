@@ -1,7 +1,7 @@
 # Culture-Connection
  Welcome to our one-stop for effortless vacation planning!
 # Project Details:
-  1. Project Demo URL: https://mycultureconnection-secondary.z13.web.core.windows.net/
+  1. Project Demo URL: https://mycultureconnection.z13.web.core.windows.net/
   2. Demo Video URL: https://youtu.be/F4CIraSrF04
   3. GitHub Repository URL: https://github.com/LalukotaPoojitha/Culture-Connections
   4. Industry : Lifestyle - Travel
